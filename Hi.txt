@@ -1,0 +1,5 @@
+Hi,
+welcome to my git practice sessions. I am a civil engineer by profession.
+DevOps has always been a question mark to be since i dont have a software background.
+But i should say, from the day i have started by journey towards  DevOps, its been really fun.
+Thats all for today bubye.
